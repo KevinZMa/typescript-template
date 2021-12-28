@@ -17,9 +17,9 @@
     "devDependencies": {
         "@kevinzma/prettier-config": "^1.1.0",
         "@sapphire/ts-config": "^3.1.6",
-        "@types/node": "^16.11.10",
-        "prettier": "^2.5.0",
-        "typescript": "^4.5.2"
+        "@types/node": "^16.11.17",
+        "prettier": "^2.5.1",
+        "typescript": "^4.5.4"
     },
     "repository": {
         "type": "git",
